@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;cite&gt;${1:$TM_SELECTED_TEXT}&lt;/cite&gt;$0</string>
 	<key>name</key>
-	<string>cite copy</string>
+	<string>cite</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

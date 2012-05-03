@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;form${1: id="${2:}"} action="${3:action}" method="post"&gt;
+	<string>&lt;form${1: id="${2:id}"} action="${3:action}" method="${4:post}"&gt;
 	$0
 &lt;/form&gt;</string>
 	<key>name</key>

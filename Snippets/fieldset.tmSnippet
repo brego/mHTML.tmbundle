@@ -6,8 +6,6 @@
 	<string>&lt;fieldset&gt;
 	$0
 &lt;/fieldset&gt;</string>
-	<key>keyEquivalent</key>
-	<string>^~@f</string>
 	<key>name</key>
 	<string>fieldset</string>
 	<key>scope</key>

@@ -4,8 +4,6 @@
 <dict>
 	<key>content</key>
 	<string>&lt;dfn&gt;${1:$TM_SELECTED_TEXT}&lt;/dfn&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@p</string>
 	<key>name</key>
 	<string>dfn</string>
 	<key>scope</key>

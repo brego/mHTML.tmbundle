@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;code&gt;${1:$TM_SELECTED_TEXT}&lt;/code&gt;$0</string>
 	<key>name</key>
-	<string>code copy</string>
+	<string>code</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

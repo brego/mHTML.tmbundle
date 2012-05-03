@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;h5&gt;${1:$TM_SELECTED_TEXT}&lt;/h5&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@h</string>
+	<string>&lt;h5${1:${2: id="${3:id}"}${4: class="${5:class}"}}&gt;$6&lt;/h5&gt;$0</string>
 	<key>name</key>
 	<string>h5</string>
 	<key>scope</key>

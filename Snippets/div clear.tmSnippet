@@ -6,6 +6,8 @@
 	<string>&lt;div class="clear"&gt;&lt;/div&gt;</string>
 	<key>name</key>
 	<string>div clear</string>
+	<key>scope</key>
+	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>clear</string>
 	<key>uuid</key>

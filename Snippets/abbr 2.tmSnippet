@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a href="${1:$TM_SELECTED_TEXT}" title="${2:$TM_SELECTED_TEXT}"&gt;${3:$TM_SELECTED_TEXT}&lt;/a&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@a</string>
+	<string>&lt;abbr${1: title="${2:name}"}&gt;${3:$TM_SELECTED_TEXT}&lt;/abbr&gt;$0</string>
 	<key>name</key>
-	<string>a (link)</string>
+	<string>abbr</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>a</string>
+	<string>abbr</string>
 	<key>uuid</key>
-	<string>21093360-77A2-4C7D-829B-64DCEA24B5AD</string>
+	<string>C10E03FF-6416-49F4-9E8F-8AA2BFE2D218</string>
 </dict>
 </plist>

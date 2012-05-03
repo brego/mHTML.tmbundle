@@ -4,8 +4,6 @@
 <dict>
 	<key>content</key>
 	<string>&lt;ins${1: datetime="`date +%Y-%m-%dT%H:%M:%S%z`"}${2: cite="${3:source}"}&gt;${4:$TM_SELECTED_TEXT}&lt;/ins&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@i</string>
 	<key>name</key>
 	<string>ins</string>
 	<key>scope</key>

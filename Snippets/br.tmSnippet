@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>&lt;br /&gt;</string>
-	<key>keyEquivalent</key>
-	<string>@</string>
 	<key>name</key>
 	<string>br</string>
 	<key>scope</key>
 	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>br</string>
 	<key>uuid</key>
 	<string>3E008E42-A5C9-11D9-9BCD-000D93C8BE28</string>
 </dict>

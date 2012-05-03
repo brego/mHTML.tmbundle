@@ -4,8 +4,6 @@
 <dict>
 	<key>content</key>
 	<string>&lt;cite&gt;${1:$TM_SELECTED_TEXT}&lt;/cite&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@p</string>
 	<key>name</key>
 	<string>cite</string>
 	<key>scope</key>

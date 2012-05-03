@@ -4,8 +4,6 @@
 <dict>
 	<key>content</key>
 	<string>&lt;input ${1:type="${2:button/checkbox/file/hidden/image/password/radio/reset/submit/text}" }${3:name="${4:name}" }${5:value="$6" }${7:id="${8:$9}"} /&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^~@f</string>
 	<key>name</key>
 	<string>input (long)</string>
 	<key>scope</key>

@@ -3,11 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;form${1: id="${2:}"} action="${3:action}" method="post"&gt;
+	<string>&lt;form${1: id="${2:id}"}${3: class="${4:class}"} action="${5:action}" method="${6:post}"&gt;
 	$0
 &lt;/form&gt;</string>
-	<key>keyEquivalent</key>
-	<string>^~@f</string>
 	<key>name</key>
 	<string>form</string>
 	<key>scope</key>

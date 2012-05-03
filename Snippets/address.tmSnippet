@@ -6,8 +6,6 @@
 	<string>&lt;address&gt;
 	${1:$TM_SELECTED_TEXT}
 &lt;/address&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@b</string>
 	<key>name</key>
 	<string>address</string>
 	<key>scope</key>
