@@ -21,7 +21,7 @@
 		&lt;meta name="copyright"   content="Kamil &amp;ldquo;Brego&amp;rdquo; Dzieliński" /&gt;
 		&lt;meta name="viewport"    content="width=device-width, initial-scale=1.0" /&gt;
 
-		&lt;link rel="stylesheet" href="stylesheets/style.css" /&gt;
+		${2:&lt;link rel="stylesheet" href="stylesheets/style.css" /&gt;}
 	&lt;/head&gt;
 	&lt;body&gt;
 		$0
